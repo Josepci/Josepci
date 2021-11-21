@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Josepci
 - 👀 I’m interested in learn programming
-- 🌱 I’m currently learning phyton and data science
+- 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me to be an expert
 
